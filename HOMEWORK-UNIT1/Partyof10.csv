@@ -1,0 +1,13 @@
+Type,ID,Name,HP,isAlive,Stat1,Stat2
+1,02,Warrior1,185,true,14,25
+1,05,Warrior2,136,true,30,10
+1,06,Warrior3,183,true,13,26
+2,56,Wizard1,125,true,49,46
+2,75,Wizard2,100,true,24,50
+1,34,Warrior4,152,true,34,14
+2,46,Wizard3,172,true,46,29
+2,57,Wizard4,142,true,29,13
+2,23,Wizard5,189,true,48,27
+1,82,Warrior5,108,true,22,37
+
+
